@@ -1,8 +1,8 @@
 
 # Pattern Recognition - Assignment 1
 ### Students' Names:
-    Amira Noaman
-    Rawda Rumaieh 
+    Amira Noaman  - 1170400
+    Rawda Rumaieh - 1170448
 
 ## Batch Perceptron Algorithm
 ### Description: 
