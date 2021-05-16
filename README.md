@@ -23,6 +23,7 @@
 - The online training algorithm has the same process and functions of the batch perceptron algorithm but it's faster 
 - We update the weighting coefficient vector after each sample
 
+## Comparions
 ### Question 1 Output 
 |                     | Epochs      | Steps to update weights | delta plot |
 |------------         | ----------- | ----------- | -------------|
